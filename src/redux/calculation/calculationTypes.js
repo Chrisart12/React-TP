@@ -1,0 +1,6 @@
+export const GET_NUMBER = "GET_NUMBER"; 
+export const RESET_CHOICE = "RESET_CHOICE";
+export const GET_MULTIPLICATION = "GET_MULTIPLICATION";
+export const INCREMENT_SCORE = "INCREMENT_SCORE"; 
+export const RESET_ALL = "RESET_ALL"; 
+

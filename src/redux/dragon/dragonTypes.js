@@ -1,0 +1,3 @@
+export const ADD_DRAGON = "ADD_DRAGON";
+export const REMOVE_DRAGON = "REMOVE_DRAGON";
+export const INVERSE_DRAGON = "INVERSE_DRAGON"; 

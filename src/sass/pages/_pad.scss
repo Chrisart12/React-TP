@@ -1,0 +1,20 @@
+.pad-number {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    // background: "red";
+    width: 280px;
+    flex-wrap: wrap;
+}
+
+.btn-number {
+    width: 90px;
+    margin-top: 10px;
+}
+
+.login-btn_disabled{
+    cursor: not-allowed;
+    pointer-events: none;
+    color: #c0c0c0;
+    background-color: #ffffff;
+}
